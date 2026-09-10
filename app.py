@@ -82,8 +82,21 @@ if st.session_state.idx >= len(filtered):
     st.session_state.idx = 0
 
 card = filtered[st.session_state.idx]
-gender = card["article"]
+gender = card.get("article", "")
 color = GENDER_COLORS.get(gender, "#6B7280")
+
+# Backward-compatible defaults in case an older vocab_data.json is loaded
+card.setdefault("icon", "📘")
+card.setdefault("plural", "")
+card.setdefault("my_sentence", "")
+card.setdefault("status", "To Learn")
+card.setdefault("type", "")
+card.setdefault("bangla", "")
+card.setdefault("english", "")
+if "sentence1" not in card:
+    card["sentence1"] = card.get("sentence", "")
+if "sentence2" not in card:
+    card["sentence2"] = ""
 
 # ---------- Top bar: title + progress ----------
 st.markdown(

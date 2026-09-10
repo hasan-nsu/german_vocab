@@ -10,9 +10,13 @@
     "sentence1": "Wir wohnen in einem großen Haus.",
     "sentence2": "Ich putze heute das ganze Haus.",
     "english": "house",
-    "bangla": "দাস হাউস",
+    "bangla": "বাড়ি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We live in a big house.",
+    "sentence1_bn": "আমরা একটি বড় বাড়িতে থাকি।",
+    "sentence2_en": "Today I am cleaning the whole house.",
+    "sentence2_bn": "আজ আমি পুরো বাড়ি পরিষ্কার করছি।"
   },
   {
     "id": 2,
@@ -25,9 +29,13 @@
     "sentence1": "Meine Wohnung ist klein aber gemütlich.",
     "sentence2": "Wir suchen eine neue Wohnung.",
     "english": "apartment/flat",
-    "bangla": "ডি ভোনুং",
+    "bangla": "ফ্ল্যাট/অ্যাপার্টমেন্ট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My apartment is small but cozy.",
+    "sentence1_bn": "আমার ফ্ল্যাটটি ছোট কিন্তু আরামদায়ক।",
+    "sentence2_en": "We are looking for a new apartment.",
+    "sentence2_bn": "আমরা একটি নতুন ফ্ল্যাট খুঁজছি।"
   },
   {
     "id": 3,
@@ -40,9 +48,13 @@
     "sentence1": "Der Tisch steht in der Küche.",
     "sentence2": "Stell die Tasse auf den Tisch.",
     "english": "table",
-    "bangla": "ডেয়া টিশ",
+    "bangla": "টেবিল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The table is in the kitchen.",
+    "sentence1_bn": "টেবিলটি রান্নাঘরে আছে।",
+    "sentence2_en": "Put the cup on the table.",
+    "sentence2_bn": "কাপটি টেবিলের উপর রাখো।"
   },
   {
     "id": 4,
@@ -55,9 +67,13 @@
     "sentence1": "Bitte setz dich auf den Stuhl.",
     "sentence2": "Der Stuhl ist kaputt.",
     "english": "chair",
-    "bangla": "ডেয়া স্টুল",
+    "bangla": "চেয়ার",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please sit on the chair.",
+    "sentence1_bn": "দয়া করে চেয়ারে বসো।",
+    "sentence2_en": "The chair is broken.",
+    "sentence2_bn": "চেয়ারটি ভাঙা।"
   },
   {
     "id": 5,
@@ -70,9 +86,13 @@
     "sentence1": "Ich gehe früh ins Bett.",
     "sentence2": "Das Bett ist sehr bequem.",
     "english": "bed",
-    "bangla": "দাস বেট",
+    "bangla": "বিছানা/খাট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I go to bed early.",
+    "sentence1_bn": "আমি তাড়াতাড়ি বিছানায় যাই।",
+    "sentence2_en": "The bed is very comfortable.",
+    "sentence2_bn": "বিছানাটি খুব আরামদায়ক।"
   },
   {
     "id": 6,
@@ -85,9 +105,13 @@
     "sentence1": "Wir kochen zusammen in der Küche.",
     "sentence2": "Die Küche ist frisch renoviert.",
     "english": "kitchen",
-    "bangla": "ডি কুশে",
+    "bangla": "রান্নাঘর",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We cook together in the kitchen.",
+    "sentence1_bn": "আমরা রান্নাঘরে একসাথে রান্না করি।",
+    "sentence2_en": "The kitchen is freshly renovated.",
+    "sentence2_bn": "রান্নাঘরটি নতুন করে সংস্কার করা হয়েছে।"
   },
   {
     "id": 7,
@@ -100,9 +124,13 @@
     "sentence1": "Das Badezimmer ist im ersten Stock.",
     "sentence2": "Ich putze jeden Samstag das Badezimmer.",
     "english": "bathroom",
-    "bangla": "দাস বাডেসিমার",
+    "bangla": "বাথরুম/গোসলখানা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The bathroom is on the first floor.",
+    "sentence1_bn": "বাথরুমটি প্রথম তলায়।",
+    "sentence2_en": "I clean the bathroom every Saturday.",
+    "sentence2_bn": "আমি প্রতি শনিবার বাথরুম পরিষ্কার করি।"
   },
   {
     "id": 8,
@@ -115,9 +143,13 @@
     "sentence1": "Ich habe meinen Schlüssel verloren.",
     "sentence2": "Gib mir bitte den Schlüssel.",
     "english": "key",
-    "bangla": "ডেয়া শ্লুসেল",
+    "bangla": "চাবি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I lost my key.",
+    "sentence1_bn": "আমি আমার চাবি হারিয়েছি।",
+    "sentence2_en": "Please give me the key.",
+    "sentence2_bn": "দয়া করে চাবিটা আমাকে দাও।"
   },
   {
     "id": 9,
@@ -130,9 +162,13 @@
     "sentence1": "Bitte mach die Tür zu.",
     "sentence2": "Die Tür ist nicht abgeschlossen.",
     "english": "door",
-    "bangla": "ডি টুয়্যার",
+    "bangla": "দরজা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please close the door.",
+    "sentence1_bn": "দয়া করে দরজা বন্ধ করো।",
+    "sentence2_en": "The door is not locked.",
+    "sentence2_bn": "দরজাটি তালাবদ্ধ নয়।"
   },
   {
     "id": 10,
@@ -145,9 +181,13 @@
     "sentence1": "Mach bitte das Fenster auf, es ist warm.",
     "sentence2": "Das Fenster ist kaputt.",
     "english": "window",
-    "bangla": "দাস ফেন্সটার",
+    "bangla": "জানালা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please open the window, it's warm.",
+    "sentence1_bn": "দয়া করে জানালা খোলো, গরম লাগছে।",
+    "sentence2_en": "The window is broken.",
+    "sentence2_bn": "জানালাটি ভাঙা।"
   },
   {
     "id": 11,
@@ -160,9 +200,13 @@
     "sentence1": "Bring bitte den Müll raus.",
     "sentence2": "Der Müll wird dienstags abgeholt.",
     "english": "trash/garbage",
-    "bangla": "ডেয়া মিউল",
+    "bangla": "আবর্জনা/ময়লা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please take out the trash.",
+    "sentence1_bn": "দয়া করে ময়লা বাইরে ফেলো।",
+    "sentence2_en": "The trash is collected on Tuesdays.",
+    "sentence2_bn": "মঙ্গলবারে ময়লা সংগ্রহ করা হয়।"
   },
   {
     "id": 12,
@@ -175,9 +219,13 @@
     "sentence1": "Die Straße ist heute sehr laut.",
     "sentence2": "Wir wohnen in einer ruhigen Straße.",
     "english": "street",
-    "bangla": "ডি স্ট্রাসে",
+    "bangla": "রাস্তা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The street is very noisy today.",
+    "sentence1_bn": "আজ রাস্তাটি খুব কোলাহলপূর্ণ।",
+    "sentence2_en": "We live on a quiet street.",
+    "sentence2_bn": "আমরা একটি শান্ত রাস্তায় থাকি।"
   },
   {
     "id": 13,
@@ -190,9 +238,13 @@
     "sentence1": "Am Wochenende gehen wir in den Park.",
     "sentence2": "Der Park ist sehr grün und schön.",
     "english": "park",
-    "bangla": "ডেয়া পার্ক",
+    "bangla": "পার্ক/উদ্যান",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "On the weekend we go to the park.",
+    "sentence1_bn": "সপ্তাহান্তে আমরা পার্কে যাই।",
+    "sentence2_en": "The park is very green and beautiful.",
+    "sentence2_bn": "পার্কটি খুব সবুজ ও সুন্দর।"
   },
   {
     "id": 14,
@@ -205,9 +257,13 @@
     "sentence1": "Die Luft hier ist sehr frisch.",
     "sentence2": "Die Luft in der Stadt ist oft schmutzig.",
     "english": "air",
-    "bangla": "ডি লুফ্ট",
+    "bangla": "বাতাস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The air here is very fresh.",
+    "sentence1_bn": "এখানকার বাতাস খুব সতেজ।",
+    "sentence2_en": "The air in the city is often dirty.",
+    "sentence2_bn": "শহরের বাতাস প্রায়ই দূষিত।"
   },
   {
     "id": 15,
@@ -220,9 +276,13 @@
     "sentence1": "Das Wetter ist heute schön.",
     "sentence2": "Wie wird das Wetter morgen?",
     "english": "weather",
-    "bangla": "দাস ভেটার",
+    "bangla": "আবহাওয়া",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The weather is nice today.",
+    "sentence1_bn": "আজ আবহাওয়া সুন্দর।",
+    "sentence2_en": "How will the weather be tomorrow?",
+    "sentence2_bn": "আগামীকাল আবহাওয়া কেমন হবে?"
   },
   {
     "id": 16,
@@ -235,9 +295,13 @@
     "sentence1": "Die Sonne scheint den ganzen Tag.",
     "sentence2": "Ich liebe die Sonne im Sommer.",
     "english": "sun",
-    "bangla": "ডি জোনে",
+    "bangla": "সূর্য",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The sun shines all day.",
+    "sentence1_bn": "সূর্য পুরো দিন জ্বলজ্বল করে।",
+    "sentence2_en": "I love the sun in summer.",
+    "sentence2_bn": "আমি গ্রীষ্মে সূর্যকে ভালোবাসি।"
   },
   {
     "id": 17,
@@ -250,9 +314,13 @@
     "sentence1": "Ich mag den Regen im Sommer nicht.",
     "sentence2": "Der Regen hört bald auf.",
     "english": "rain",
-    "bangla": "ডেয়া রেগেন",
+    "bangla": "বৃষ্টি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I don't like the rain in summer.",
+    "sentence1_bn": "আমি গ্রীষ্মে বৃষ্টি পছন্দ করি না।",
+    "sentence2_en": "The rain will stop soon.",
+    "sentence2_bn": "বৃষ্টি শীঘ্রই থেমে যাবে।"
   },
   {
     "id": 18,
@@ -265,9 +333,13 @@
     "sentence1": "Ich stehe jeden Tag um sieben Uhr auf.",
     "sentence2": "Er steht heute später auf.",
     "english": "to get up",
-    "bangla": "আউফ্‌শ্টেয়েন",
+    "bangla": "ওঠা/জেগে ওঠা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I get up at seven o'clock every day.",
+    "sentence1_bn": "আমি প্রতিদিন সাতটায় উঠি।",
+    "sentence2_en": "He is getting up later today.",
+    "sentence2_bn": "সে আজ পরে উঠবে।"
   },
   {
     "id": 19,
@@ -280,9 +352,13 @@
     "sentence1": "Samstags putze ich die ganze Wohnung.",
     "sentence2": "Sie putzt gerade das Bad.",
     "english": "to clean",
-    "bangla": "পুৎসেন",
+    "bangla": "পরিষ্কার করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "On Saturdays I clean the whole apartment.",
+    "sentence1_bn": "শনিবারে আমি পুরো ফ্ল্যাট পরিষ্কার করি।",
+    "sentence2_en": "She is cleaning the bathroom right now.",
+    "sentence2_bn": "সে এখন বাথরুম পরিষ্কার করছে।"
   },
   {
     "id": 20,
@@ -295,9 +371,13 @@
     "sentence1": "Meine Mutter kocht sehr gut.",
     "sentence2": "Ich koche heute Abend Pasta.",
     "english": "to cook",
-    "bangla": "কোখেন",
+    "bangla": "রান্না করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My mother cooks very well.",
+    "sentence1_bn": "আমার মা খুব ভালো রান্না করেন।",
+    "sentence2_en": "I am cooking pasta tonight.",
+    "sentence2_bn": "আজ রাতে আমি পাস্তা রান্না করব।"
   },
   {
     "id": 21,
@@ -310,9 +390,13 @@
     "sentence1": "Ich esse morgens gerne Brot mit Butter.",
     "sentence2": "Kannst du bitte Brot kaufen?",
     "english": "bread",
-    "bangla": "দাস ব্রোট",
+    "bangla": "রুটি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I like to eat bread with butter in the morning.",
+    "sentence1_bn": "সকালে আমি মাখন দিয়ে রুটি খেতে পছন্দ করি।",
+    "sentence2_en": "Can you please buy bread?",
+    "sentence2_bn": "তুমি কি দয়া করে রুটি কিনতে পারবে?"
   },
   {
     "id": 22,
@@ -325,9 +409,13 @@
     "sentence1": "Ich trinke jeden Morgen ein Glas Milch.",
     "sentence2": "Die Milch ist schon leer.",
     "english": "milk",
-    "bangla": "ডি মিল্‌শ",
+    "bangla": "দুধ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I drink a glass of milk every morning.",
+    "sentence1_bn": "আমি প্রতি সকালে এক গ্লাস দুধ খাই।",
+    "sentence2_en": "The milk is already finished.",
+    "sentence2_bn": "দুধ শেষ হয়ে গেছে।"
   },
   {
     "id": 23,
@@ -340,9 +428,13 @@
     "sentence1": "Dieser Käse schmeckt sehr gut.",
     "sentence2": "Ich mag keinen Käse.",
     "english": "cheese",
-    "bangla": "ডেয়া কেজে",
+    "bangla": "পনির/চিজ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "This cheese tastes very good.",
+    "sentence1_bn": "এই পনিরের স্বাদ খুব ভালো।",
+    "sentence2_en": "I don't like cheese.",
+    "sentence2_bn": "আমি পনির পছন্দ করি না।"
   },
   {
     "id": 24,
@@ -355,9 +447,13 @@
     "sentence1": "Kann ich bitte ein Glas Wasser haben?",
     "sentence2": "Trink genug Wasser am Tag.",
     "english": "water",
-    "bangla": "দাস ভাসার",
+    "bangla": "পানি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Can I have a glass of water, please?",
+    "sentence1_bn": "আমি কি একটু পানি পেতে পারি?",
+    "sentence2_en": "Drink enough water during the day.",
+    "sentence2_bn": "দিনে যথেষ্ট পানি পান করো।"
   },
   {
     "id": 25,
@@ -370,9 +466,13 @@
     "sentence1": "Ich trinke jeden Morgen einen Kaffee.",
     "sentence2": "Möchtest du einen Kaffee?",
     "english": "coffee",
-    "bangla": "ডেয়া কাফে",
+    "bangla": "কফি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I drink a coffee every morning.",
+    "sentence1_bn": "আমি প্রতি সকালে এক কাপ কফি খাই।",
+    "sentence2_en": "Would you like a coffee?",
+    "sentence2_bn": "তুমি কি কফি খাবে?"
   },
   {
     "id": 26,
@@ -385,9 +485,13 @@
     "sentence1": "Möchtest du eine Tasse Tee?",
     "sentence2": "Ich trinke lieber Tee als Kaffee.",
     "english": "tea",
-    "bangla": "ডেয়া টে",
+    "bangla": "চা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Would you like a cup of tea?",
+    "sentence1_bn": "তুমি কি এক কাপ চা খাবে?",
+    "sentence2_en": "I prefer tea over coffee.",
+    "sentence2_bn": "আমি কফির চেয়ে চা বেশি পছন্দ করি।"
   },
   {
     "id": 27,
@@ -400,9 +504,13 @@
     "sentence1": "Ich esse gerne frisches Obst.",
     "sentence2": "Wir haben kein Obst mehr zu Hause.",
     "english": "fruit",
-    "bangla": "দাস ওপ্সট",
+    "bangla": "ফল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I like to eat fresh fruit.",
+    "sentence1_bn": "আমি তাজা ফল খেতে পছন্দ করি।",
+    "sentence2_en": "We don't have any fruit left at home.",
+    "sentence2_bn": "বাড়িতে আমাদের আর কোনো ফল নেই।"
   },
   {
     "id": 28,
@@ -415,9 +523,13 @@
     "sentence1": "Kinder sollten mehr Gemüse essen.",
     "sentence2": "Ich koche das Gemüse zehn Minuten.",
     "english": "vegetables",
-    "bangla": "দাস গেমুজে",
+    "bangla": "সবজি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Children should eat more vegetables.",
+    "sentence1_bn": "শিশুদের আরও বেশি সবজি খাওয়া উচিত।",
+    "sentence2_en": "I cook the vegetables for ten minutes.",
+    "sentence2_bn": "আমি সবজিটি দশ মিনিট রান্না করি।"
   },
   {
     "id": 29,
@@ -430,9 +542,13 @@
     "sentence1": "Ein Apfel am Tag ist gesund.",
     "sentence2": "Ich esse gerade einen Apfel.",
     "english": "apple",
-    "bangla": "ডেয়া আপ্ফেল",
+    "bangla": "আপেল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "An apple a day is healthy.",
+    "sentence1_bn": "দিনে একটি আপেল স্বাস্থ্যকর।",
+    "sentence2_en": "I am eating an apple right now.",
+    "sentence2_bn": "আমি এখন একটি আপেল খাচ্ছি।"
   },
   {
     "id": 30,
@@ -445,9 +561,13 @@
     "sentence1": "Die Banane ist noch nicht reif.",
     "sentence2": "Ich nehme mir eine Banane mit.",
     "english": "banana",
-    "bangla": "ডি বানানে",
+    "bangla": "কলা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The banana is not ripe yet.",
+    "sentence1_bn": "কলাটি এখনও পাকেনি।",
+    "sentence2_en": "I'll take a banana with me.",
+    "sentence2_bn": "আমি একটি কলা সাথে নিয়ে যাব।"
   },
   {
     "id": 31,
@@ -460,9 +580,13 @@
     "sentence1": "Er isst kein Fleisch mehr.",
     "sentence2": "Das Fleisch muss noch kochen.",
     "english": "meat",
-    "bangla": "দাস ফ্লাইশ",
+    "bangla": "মাংস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "He doesn't eat meat anymore.",
+    "sentence1_bn": "সে আর মাংস খায় না।",
+    "sentence2_en": "The meat still needs to cook.",
+    "sentence2_bn": "মাংসটি এখনও রান্না করা লাগবে।"
   },
   {
     "id": 32,
@@ -475,9 +599,13 @@
     "sentence1": "Am Freitag essen wir oft Fisch.",
     "sentence2": "Ich kaufe frischen Fisch.",
     "english": "fish",
-    "bangla": "ডেয়া ফিশ",
+    "bangla": "মাছ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "On Fridays we often eat fish.",
+    "sentence1_bn": "শুক্রবারে আমরা প্রায়ই মাছ খাই।",
+    "sentence2_en": "I am buying fresh fish.",
+    "sentence2_bn": "আমি তাজা মাছ কিনছি।"
   },
   {
     "id": 33,
@@ -490,9 +618,13 @@
     "sentence1": "Ich muss noch zum Supermarkt gehen.",
     "sentence2": "Der Supermarkt schließt um zehn Uhr.",
     "english": "supermarket",
-    "bangla": "ডেয়া জুপারমার্কট",
+    "bangla": "সুপারমার্কেট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I still need to go to the supermarket.",
+    "sentence1_bn": "আমাকে এখনও সুপারমার্কেটে যেতে হবে।",
+    "sentence2_en": "The supermarket closes at ten o'clock.",
+    "sentence2_bn": "সুপারমার্কেট দশটায় বন্ধ হয়।"
   },
   {
     "id": 34,
@@ -505,9 +637,13 @@
     "sentence1": "Das Geschäft öffnet um neun Uhr.",
     "sentence2": "Ich finde das Geschäft nicht.",
     "english": "shop/store",
-    "bangla": "দাস গেশেফ্ট",
+    "bangla": "দোকান",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The shop opens at nine o'clock.",
+    "sentence1_bn": "দোকানটি নয়টায় খোলে।",
+    "sentence2_en": "I can't find the shop.",
+    "sentence2_bn": "আমি দোকানটি খুঁজে পাচ্ছি না।"
   },
   {
     "id": 35,
@@ -520,9 +656,13 @@
     "sentence1": "Bitte bezahlen Sie an der Kasse.",
     "sentence2": "Die Kasse ist gerade sehr voll.",
     "english": "checkout/cashier",
-    "bangla": "ডি কাসে",
+    "bangla": "ক্যাশ কাউন্টার",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please pay at the checkout.",
+    "sentence1_bn": "দয়া করে ক্যাশ কাউন্টারে পরিশোধ করুন।",
+    "sentence2_en": "The checkout is very busy right now.",
+    "sentence2_bn": "ক্যাশ কাউন্টারে এখন খুব ভিড়।"
   },
   {
     "id": 36,
@@ -535,9 +675,13 @@
     "sentence1": "Der Preis für Obst ist gestiegen.",
     "sentence2": "Ich finde den Preis zu hoch.",
     "english": "price",
-    "bangla": "ডেয়া প্রাইস",
+    "bangla": "দাম",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The price of fruit has gone up.",
+    "sentence1_bn": "ফলের দাম বেড়ে গেছে।",
+    "sentence2_en": "I find the price too high.",
+    "sentence2_bn": "আমার কাছে দামটি খুব বেশি মনে হয়।"
   },
   {
     "id": 37,
@@ -550,9 +694,13 @@
     "sentence1": "Wir gehen samstags immer einkaufen.",
     "sentence2": "Ich kaufe heute im Internet ein.",
     "english": "to go shopping",
-    "bangla": "আইনকাউফেন",
+    "bangla": "বাজার/জিনিসপত্র কেনা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We always go shopping on Saturdays.",
+    "sentence1_bn": "আমরা শনিবারে সবসময় বাজার করতে যাই।",
+    "sentence2_en": "I am shopping online today.",
+    "sentence2_bn": "আজ আমি অনলাইনে কিনছি।"
   },
   {
     "id": 38,
@@ -565,9 +713,13 @@
     "sentence1": "Kann ich mit Karte bezahlen?",
     "sentence2": "Wer bezahlt heute das Essen?",
     "english": "to pay",
-    "bangla": "বেৎসালেন",
+    "bangla": "টাকা দেওয়া/পরিশোধ করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Can I pay by card?",
+    "sentence1_bn": "আমি কি কার্ড দিয়ে পরিশোধ করতে পারি?",
+    "sentence2_en": "Who is paying for the food today?",
+    "sentence2_bn": "আজ খাবারের টাকা কে দেবে?"
   },
   {
     "id": 39,
@@ -580,9 +732,13 @@
     "sentence1": "Wir möchten gerne bestellen.",
     "sentence2": "Ich bestelle mir eine Pizza.",
     "english": "to order",
-    "bangla": "বেশ্টেলেন",
+    "bangla": "অর্ডার করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We would like to order.",
+    "sentence1_bn": "আমরা অর্ডার করতে চাই।",
+    "sentence2_en": "I am ordering myself a pizza.",
+    "sentence2_bn": "আমি নিজের জন্য একটা পিৎজা অর্ডার করছি।"
   },
   {
     "id": 40,
@@ -595,9 +751,13 @@
     "sentence1": "Wir gehen heute Abend ins Restaurant.",
     "sentence2": "Das Restaurant ist sehr beliebt.",
     "english": "restaurant",
-    "bangla": "দাস রেস্তোরাঁ",
+    "bangla": "রেস্তোরাঁ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are going to the restaurant tonight.",
+    "sentence1_bn": "আজ রাতে আমরা রেস্তোরাঁয় যাচ্ছি।",
+    "sentence2_en": "The restaurant is very popular.",
+    "sentence2_bn": "রেস্তোরাঁটি খুব জনপ্রিয়।"
   },
   {
     "id": 41,
@@ -610,9 +770,13 @@
     "sentence1": "Wir treffen uns am Flughafen.",
     "sentence2": "Ich fahre zum Flughafen mit dem Taxi.",
     "english": "airport",
-    "bangla": "ডেয়া ফ্লুগহাফেন",
+    "bangla": "বিমানবন্দর",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are meeting at the airport.",
+    "sentence1_bn": "আমরা বিমানবন্দরে দেখা করব।",
+    "sentence2_en": "I am going to the airport by taxi.",
+    "sentence2_bn": "আমি ট্যাক্সিতে বিমানবন্দরে যাচ্ছি।"
   },
   {
     "id": 42,
@@ -625,9 +789,13 @@
     "sentence1": "Das Flugzeug startet in einer Stunde.",
     "sentence2": "Ich habe Angst vor dem Flugzeug.",
     "english": "airplane",
-    "bangla": "দাস ফ্লুগৎসয়গ",
+    "bangla": "বিমান",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The airplane takes off in an hour.",
+    "sentence1_bn": "বিমানটি এক ঘণ্টার মধ্যে উড়বে।",
+    "sentence2_en": "I am afraid of the airplane.",
+    "sentence2_bn": "আমি বিমানকে ভয় পাই।"
   },
   {
     "id": 43,
@@ -640,9 +808,13 @@
     "sentence1": "Der Zug kommt pünktlich an.",
     "sentence2": "Ich nehme den nächsten Zug.",
     "english": "train",
-    "bangla": "ডেয়া সুগ",
+    "bangla": "ট্রেন",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The train arrives on time.",
+    "sentence1_bn": "ট্রেনটি সময়মতো পৌঁছায়।",
+    "sentence2_en": "I'll take the next train.",
+    "sentence2_bn": "আমি পরের ট্রেন ধরব।"
   },
   {
     "id": 44,
@@ -655,9 +827,13 @@
     "sentence1": "Ich fahre lieber mit der Bahn.",
     "sentence2": "Die Bahn hat heute Verspätung.",
     "english": "railway/train",
-    "bangla": "ডি বান",
+    "bangla": "রেল/ট্রেন",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I prefer to travel by train.",
+    "sentence1_bn": "আমি ট্রেনে যাওয়া বেশি পছন্দ করি।",
+    "sentence2_en": "The train is delayed today.",
+    "sentence2_bn": "আজ ট্রেনটি দেরিতে চলছে।"
   },
   {
     "id": 45,
@@ -670,9 +846,13 @@
     "sentence1": "Mein Auto ist kaputt.",
     "sentence2": "Ich parke das Auto vor dem Haus.",
     "english": "car",
-    "bangla": "দাস আউটো",
+    "bangla": "গাড়ি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My car is broken.",
+    "sentence1_bn": "আমার গাড়ি খারাপ হয়ে গেছে।",
+    "sentence2_en": "I park the car in front of the house.",
+    "sentence2_bn": "আমি বাড়ির সামনে গাড়ি পার্ক করি।"
   },
   {
     "id": 46,
@@ -685,9 +865,13 @@
     "sentence1": "Der Bus kommt alle zehn Minuten.",
     "sentence2": "Ich verpasse gleich den Bus.",
     "english": "bus",
-    "bangla": "ডেয়া বুস",
+    "bangla": "বাস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The bus comes every ten minutes.",
+    "sentence1_bn": "বাস প্রতি দশ মিনিটে আসে।",
+    "sentence2_en": "I'm about to miss the bus.",
+    "sentence2_bn": "আমি এখনই বাস মিস করতে যাচ্ছি।"
   },
   {
     "id": 47,
@@ -700,9 +884,13 @@
     "sentence1": "Ich habe meine Fahrkarte vergessen.",
     "sentence2": "Bitte zeigen Sie Ihre Fahrkarte.",
     "english": "ticket",
-    "bangla": "ডি ফারকার্টে",
+    "bangla": "টিকিট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I forgot my ticket.",
+    "sentence1_bn": "আমি আমার টিকিট ভুলে গেছি।",
+    "sentence2_en": "Please show your ticket.",
+    "sentence2_bn": "দয়া করে আপনার টিকিট দেখান।"
   },
   {
     "id": 48,
@@ -715,9 +903,13 @@
     "sentence1": "Mein Koffer ist sehr schwer.",
     "sentence2": "Ich packe den Koffer heute Abend.",
     "english": "suitcase",
-    "bangla": "ডেয়া কোফার",
+    "bangla": "স্যুটকেস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My suitcase is very heavy.",
+    "sentence1_bn": "আমার স্যুটকেসটি খুব ভারী।",
+    "sentence2_en": "I'll pack the suitcase tonight.",
+    "sentence2_bn": "আজ রাতে আমি স্যুটকেস গোছাব।"
   },
   {
     "id": 49,
@@ -730,9 +922,13 @@
     "sentence1": "Vergiss deinen Reisepass nicht.",
     "sentence2": "Ich habe meinen Reisepass verloren.",
     "english": "passport",
-    "bangla": "ডেয়া রাইজেপাস",
+    "bangla": "পাসপোর্ট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Don't forget your passport.",
+    "sentence1_bn": "তোমার পাসপোর্ট ভুলে যেও না।",
+    "sentence2_en": "I lost my passport.",
+    "sentence2_bn": "আমি আমার পাসপোর্ট হারিয়েছি।"
   },
   {
     "id": 50,
@@ -745,9 +941,13 @@
     "sentence1": "Wir übernachten in einem kleinen Hotel.",
     "sentence2": "Das Hotel liegt direkt am Meer.",
     "english": "hotel",
-    "bangla": "দাস হোটেল",
+    "bangla": "হোটেল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are staying in a small hotel.",
+    "sentence1_bn": "আমরা একটি ছোট হোটেলে থাকছি।",
+    "sentence2_en": "The hotel is right by the sea.",
+    "sentence2_bn": "হোটেলটি সমুদ্রের ঠিক পাশেই।"
   },
   {
     "id": 51,
@@ -760,9 +960,13 @@
     "sentence1": "Berlin ist eine sehr große Stadt.",
     "sentence2": "Ich zeige dir gerne die Stadt.",
     "english": "city",
-    "bangla": "ডি স্টাট",
+    "bangla": "শহর",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Berlin is a very big city.",
+    "sentence1_bn": "বার্লিন একটি অনেক বড় শহর।",
+    "sentence2_en": "I'll gladly show you the city.",
+    "sentence2_bn": "আমি খুশি মনে তোমাকে শহরটা দেখাব।"
   },
   {
     "id": 52,
@@ -775,9 +979,13 @@
     "sentence1": "Deutschland ist ein schönes Land.",
     "sentence2": "Ich möchte das Land besser kennenlernen.",
     "english": "country",
-    "bangla": "দাস লান্ট",
+    "bangla": "দেশ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Germany is a beautiful country.",
+    "sentence1_bn": "জার্মানি একটি সুন্দর দেশ।",
+    "sentence2_en": "I would like to get to know the country better.",
+    "sentence2_bn": "আমি দেশটিকে আরও ভালোভাবে জানতে চাই।"
   },
   {
     "id": 53,
@@ -790,9 +998,13 @@
     "sentence1": "Wir haben die Grenze ohne Probleme überquert.",
     "sentence2": "Die Grenze ist nicht weit von hier.",
     "english": "border",
-    "bangla": "ডি গ্রেন্সে",
+    "bangla": "সীমান্ত",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We crossed the border without any problems.",
+    "sentence1_bn": "আমরা কোনো সমস্যা ছাড়াই সীমান্ত পার হয়েছি।",
+    "sentence2_en": "The border is not far from here.",
+    "sentence2_bn": "সীমান্ত এখান থেকে বেশি দূরে নয়।"
   },
   {
     "id": 54,
@@ -805,9 +1017,13 @@
     "sentence1": "Schau mal auf die Landkarte.",
     "sentence2": "Ich brauche eine Landkarte von Berlin.",
     "english": "map",
-    "bangla": "ডি লান্টকার্টে",
+    "bangla": "মানচিত্র",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Take a look at the map.",
+    "sentence1_bn": "মানচিত্রটা দেখো।",
+    "sentence2_en": "I need a map of Berlin.",
+    "sentence2_bn": "আমার বার্লিনের একটা মানচিত্র লাগবে।"
   },
   {
     "id": 55,
@@ -820,9 +1036,13 @@
     "sentence1": "Wir fahren im Sommer in den Urlaub.",
     "sentence2": "Ich brauche dringend Urlaub.",
     "english": "vacation",
-    "bangla": "ডেয়া উয়ারলাউপ",
+    "bangla": "ছুটি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are going on vacation in summer.",
+    "sentence1_bn": "আমরা গ্রীষ্মে ছুটিতে যাচ্ছি।",
+    "sentence2_en": "I urgently need a vacation.",
+    "sentence2_bn": "আমার এখনই ছুটির প্রয়োজন।"
   },
   {
     "id": 56,
@@ -835,9 +1055,13 @@
     "sentence1": "Ich reise sehr gerne.",
     "sentence2": "Wir reisen nächstes Jahr nach Japan.",
     "english": "to travel",
-    "bangla": "রাইজেন",
+    "bangla": "ভ্রমণ করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I love to travel.",
+    "sentence1_bn": "আমি ভ্রমণ করতে খুব ভালোবাসি।",
+    "sentence2_en": "We are traveling to Japan next year.",
+    "sentence2_bn": "আমরা আগামী বছর জাপানে ভ্রমণ করব।"
   },
   {
     "id": 57,
@@ -850,9 +1074,13 @@
     "sentence1": "Wir fliegen morgen nach Spanien.",
     "sentence2": "Sie fliegt zum ersten Mal allein.",
     "english": "to fly",
-    "bangla": "ফ্লিগেন",
+    "bangla": "উড়া/বিমানে যাওয়া",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are flying to Spain tomorrow.",
+    "sentence1_bn": "আমরা আগামীকাল স্পেনে উড়ে যাচ্ছি।",
+    "sentence2_en": "She is flying alone for the first time.",
+    "sentence2_bn": "সে প্রথমবার একা উড়ে যাচ্ছে।"
   },
   {
     "id": 58,
@@ -865,9 +1093,13 @@
     "sentence1": "Wann kommen wir in Berlin an?",
     "sentence2": "Der Zug kommt in zehn Minuten an.",
     "english": "to arrive",
-    "bangla": "আনকোমেন",
+    "bangla": "পৌঁছানো",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "When do we arrive in Berlin?",
+    "sentence1_bn": "আমরা বার্লিনে কখন পৌঁছাব?",
+    "sentence2_en": "The train arrives in ten minutes.",
+    "sentence2_bn": "ট্রেনটি দশ মিনিটে পৌঁছাবে।"
   },
   {
     "id": 59,
@@ -880,9 +1112,13 @@
     "sentence1": "Der Zug fährt in fünf Minuten ab.",
     "sentence2": "Wir fahren morgen früh ab.",
     "english": "to depart",
-    "bangla": "আপফারেন",
+    "bangla": "রওনা হওয়া/ছাড়া",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The train departs in five minutes.",
+    "sentence1_bn": "ট্রেনটি পাঁচ মিনিটে ছাড়বে।",
+    "sentence2_en": "We are leaving early tomorrow morning.",
+    "sentence2_bn": "আমরা আগামীকাল সকালে রওনা হব।"
   },
   {
     "id": 60,
@@ -895,9 +1131,13 @@
     "sentence1": "Der Kölner Dom ist eine bekannte Sehenswürdigkeit.",
     "sentence2": "Wir besuchen heute drei Sehenswürdigkeiten.",
     "english": "tourist attraction",
-    "bangla": "ডি জেয়েন্সভুয়্যার্ডিশকাইট",
+    "bangla": "দর্শনীয় স্থান",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Cologne Cathedral is a famous tourist attraction.",
+    "sentence1_bn": "কোলন ক্যাথেড্রাল একটি প্রসিদ্ধ দর্শনীয় স্থান।",
+    "sentence2_en": "Today we are visiting three tourist attractions.",
+    "sentence2_bn": "আজ আমরা তিনটি দর্শনীয় স্থান দেখতে যাচ্ছি।"
   },
   {
     "id": 61,
@@ -910,9 +1150,13 @@
     "sentence1": "Sein Beruf ist Lehrer.",
     "sentence2": "Ich mag meinen Beruf sehr.",
     "english": "profession/job",
-    "bangla": "ডেয়া বেরুফ",
+    "bangla": "পেশা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "His profession is teacher.",
+    "sentence1_bn": "তার পেশা শিক্ষকতা।",
+    "sentence2_en": "I really like my profession.",
+    "sentence2_bn": "আমি আমার পেশা খুব পছন্দ করি।"
   },
   {
     "id": 62,
@@ -925,9 +1169,13 @@
     "sentence1": "Ich muss heute sehr lange arbeiten.",
     "sentence2": "Er arbeitet seit fünf Jahren hier.",
     "english": "to work",
-    "bangla": "আরবাইটেন",
+    "bangla": "কাজ করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I have to work very long today.",
+    "sentence1_bn": "আজ আমাকে অনেক সময় কাজ করতে হবে।",
+    "sentence2_en": "He has been working here for five years.",
+    "sentence2_bn": "সে পাঁচ বছর ধরে এখানে কাজ করছে।"
   },
   {
     "id": 63,
@@ -940,9 +1188,13 @@
     "sentence1": "Ich möchte mich für diese Stelle bewerben.",
     "sentence2": "Sie hat sich bei drei Firmen beworben.",
     "english": "to apply for a job",
-    "bangla": "জিশ বেভারবেন",
+    "bangla": "চাকরির জন্য আবেদন করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I would like to apply for this position.",
+    "sentence1_bn": "আমি এই পদের জন্য আবেদন করতে চাই।",
+    "sentence2_en": "She applied to three companies.",
+    "sentence2_bn": "সে তিনটি কোম্পানিতে আবেদন করেছে।"
   },
   {
     "id": 64,
@@ -955,9 +1207,13 @@
     "sentence1": "Ich schreibe dir später eine E-Mail.",
     "sentence2": "Hast du meine E-Mail gelesen?",
     "english": "email",
-    "bangla": "ডি ই-মেইল",
+    "bangla": "ইমেইল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I will write you an email later.",
+    "sentence1_bn": "আমি তোমাকে পরে একটা ইমেইল লিখব।",
+    "sentence2_en": "Did you read my email?",
+    "sentence2_bn": "তুমি কি আমার ইমেইলটা পড়েছ?"
   },
   {
     "id": 65,
@@ -970,9 +1226,13 @@
     "sentence1": "Der Computer ist leider kaputt.",
     "sentence2": "Ich brauche einen neuen Computer.",
     "english": "computer",
-    "bangla": "ডেয়া কম্পিউটার",
+    "bangla": "কম্পিউটার",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Unfortunately, the computer is broken.",
+    "sentence1_bn": "দুর্ভাগ্যক্রমে কম্পিউটারটি খারাপ হয়ে গেছে।",
+    "sentence2_en": "I need a new computer.",
+    "sentence2_bn": "আমার একটা নতুন কম্পিউটার লাগবে।"
   },
   {
     "id": 66,
@@ -985,9 +1245,13 @@
     "sentence1": "Das Projekt ist bald fertig.",
     "sentence2": "Wir starten das Projekt nächste Woche.",
     "english": "project",
-    "bangla": "দাস প্রোয়েক্ট",
+    "bangla": "প্রজেক্ট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The project will be finished soon.",
+    "sentence1_bn": "প্রজেক্টটি শীঘ্রই শেষ হবে।",
+    "sentence2_en": "We are starting the project next week.",
+    "sentence2_bn": "আমরা আগামী সপ্তাহে প্রজেক্ট শুরু করব।"
   },
   {
     "id": 67,
@@ -1000,9 +1264,13 @@
     "sentence1": "Wir feiern unseren großen Erfolg.",
     "sentence2": "Ich wünsche dir viel Erfolg.",
     "english": "success",
-    "bangla": "ডেয়া এয়ারফল্গ",
+    "bangla": "সাফল্য",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are celebrating our big success.",
+    "sentence1_bn": "আমরা আমাদের বড় সাফল্য উদযাপন করছি।",
+    "sentence2_en": "I wish you great success.",
+    "sentence2_bn": "আমি তোমার জন্য অনেক সাফল্য কামনা করি।"
   },
   {
     "id": 68,
@@ -1015,9 +1283,13 @@
     "sentence1": "Ich habe leider nicht genug Geld.",
     "sentence2": "Er verdient viel Geld.",
     "english": "money",
-    "bangla": "দাস গেল্ট",
+    "bangla": "টাকা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Unfortunately, I don't have enough money.",
+    "sentence1_bn": "দুর্ভাগ্যক্রমে আমার কাছে যথেষ্ট টাকা নেই।",
+    "sentence2_en": "He earns a lot of money.",
+    "sentence2_bn": "সে অনেক টাকা আয় করে।"
   },
   {
     "id": 69,
@@ -1030,9 +1302,13 @@
     "sentence1": "Bitte unterschreiben Sie den Vertrag.",
     "sentence2": "Ich lese den Vertrag genau.",
     "english": "contract",
-    "bangla": "ডেয়া ফেয়ারট্রাগ",
+    "bangla": "চুক্তি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please sign the contract.",
+    "sentence1_bn": "দয়া করে চুক্তিতে স্বাক্ষর করুন।",
+    "sentence2_en": "I am reading the contract carefully.",
+    "sentence2_bn": "আমি চুক্তিটি ভালোভাবে পড়ছি।"
   },
   {
     "id": 70,
@@ -1045,9 +1321,13 @@
     "sentence1": "Ich suche einen neuen Job.",
     "sentence2": "Sie liebt ihren neuen Job.",
     "english": "job",
-    "bangla": "ডেয়া জব",
+    "bangla": "চাকরি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I am looking for a new job.",
+    "sentence1_bn": "আমি একটি নতুন চাকরি খুঁজছি।",
+    "sentence2_en": "She loves her new job.",
+    "sentence2_bn": "সে তার নতুন চাকরিকে খুব ভালোবাসে।"
   },
   {
     "id": 71,
@@ -1060,9 +1340,13 @@
     "sentence1": "Das Unternehmen wächst sehr schnell.",
     "sentence2": "Ich arbeite für ein großes Unternehmen.",
     "english": "company/enterprise",
-    "bangla": "দাস উন্টারনেমেন",
+    "bangla": "প্রতিষ্ঠান/কোম্পানি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The company is growing very fast.",
+    "sentence1_bn": "কোম্পানিটি খুব দ্রুত বাড়ছে।",
+    "sentence2_en": "I work for a big company.",
+    "sentence2_bn": "আমি একটি বড় কোম্পানিতে কাজ করি।"
   },
   {
     "id": 72,
@@ -1075,9 +1359,13 @@
     "sentence1": "Mein Kollege hilft mir immer gern.",
     "sentence2": "Ich frage meinen Kollegen.",
     "english": "colleague (m)",
-    "bangla": "ডেয়া কলেগে",
+    "bangla": "সহকর্মী (পুরুষ)",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My colleague always likes to help me.",
+    "sentence1_bn": "আমার সহকর্মী সবসময় আমাকে সাহায্য করতে পছন্দ করে।",
+    "sentence2_en": "I'll ask my colleague.",
+    "sentence2_bn": "আমি আমার সহকর্মীকে জিজ্ঞাসা করব।"
   },
   {
     "id": 73,
@@ -1090,9 +1378,13 @@
     "sentence1": "Meine Kollegin ist sehr freundlich.",
     "sentence2": "Ich arbeite eng mit meiner Kollegin.",
     "english": "colleague (f)",
-    "bangla": "ডি কলেগিন",
+    "bangla": "সহকর্মী (মহিলা)",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My colleague is very friendly.",
+    "sentence1_bn": "আমার সহকর্মী খুব বন্ধুত্বপূর্ণ।",
+    "sentence2_en": "I work closely with my colleague.",
+    "sentence2_bn": "আমি আমার সহকর্মীর সাথে ঘনিষ্ঠভাবে কাজ করি।"
   },
   {
     "id": 74,
@@ -1105,9 +1397,13 @@
     "sentence1": "Mein Chef ist heute nicht im Büro.",
     "sentence2": "Ich muss mit dem Chef sprechen.",
     "english": "boss (m)",
-    "bangla": "ডেয়া শেফ",
+    "bangla": "বস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My boss is not in the office today.",
+    "sentence1_bn": "আমার বস আজ অফিসে নেই।",
+    "sentence2_en": "I have to talk to the boss.",
+    "sentence2_bn": "আমাকে বসের সাথে কথা বলতে হবে।"
   },
   {
     "id": 75,
@@ -1120,9 +1416,13 @@
     "sentence1": "Das Gehalt wird am Monatsende gezahlt.",
     "sentence2": "Ich möchte über mein Gehalt sprechen.",
     "english": "salary",
-    "bangla": "দাস গেহাল্ট",
+    "bangla": "বেতন",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The salary is paid at the end of the month.",
+    "sentence1_bn": "মাসের শেষে বেতন দেওয়া হয়।",
+    "sentence2_en": "I would like to talk about my salary.",
+    "sentence2_bn": "আমি আমার বেতন নিয়ে কথা বলতে চাই।"
   },
   {
     "id": 76,
@@ -1135,9 +1435,13 @@
     "sentence1": "Die Besprechung beginnt um zehn Uhr.",
     "sentence2": "Ich habe die Besprechung verpasst.",
     "english": "meeting",
-    "bangla": "ডি বেস্প্রেশুং",
+    "bangla": "মিটিং",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The meeting starts at ten o'clock.",
+    "sentence1_bn": "মিটিং দশটায় শুরু হয়।",
+    "sentence2_en": "I missed the meeting.",
+    "sentence2_bn": "আমি মিটিং মিস করেছি।"
   },
   {
     "id": 77,
@@ -1150,9 +1454,13 @@
     "sentence1": "Ich habe morgen einen wichtigen Termin.",
     "sentence2": "Können wir den Termin verschieben?",
     "english": "appointment",
-    "bangla": "ডেয়া টেয়ারমিন",
+    "bangla": "অ্যাপয়েন্টমেন্ট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I have an important appointment tomorrow.",
+    "sentence1_bn": "আগামীকাল আমার একটি জরুরি অ্যাপয়েন্টমেন্ট আছে।",
+    "sentence2_en": "Can we postpone the appointment?",
+    "sentence2_bn": "আমরা কি অ্যাপয়েন্টমেন্টটি পিছিয়ে দিতে পারি?"
   },
   {
     "id": 78,
@@ -1165,9 +1473,13 @@
     "sentence1": "Er möchte seinen Job kündigen.",
     "sentence2": "Sie hat gestern gekündigt.",
     "english": "to quit/resign",
-    "bangla": "কুন্ডিগেন",
+    "bangla": "চাকরি ছাড়া/পদত্যাগ করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "He wants to quit his job.",
+    "sentence1_bn": "সে তার চাকরি ছাড়তে চায়।",
+    "sentence2_en": "She resigned yesterday.",
+    "sentence2_bn": "সে গতকাল পদত্যাগ করেছে।"
   },
   {
     "id": 79,
@@ -1180,9 +1492,13 @@
     "sentence1": "Ich arbeite jeden Tag im Büro.",
     "sentence2": "Das Büro ist im dritten Stock.",
     "english": "office",
-    "bangla": "দাস বুরো",
+    "bangla": "অফিস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I work at the office every day.",
+    "sentence1_bn": "আমি প্রতিদিন অফিসে কাজ করি।",
+    "sentence2_en": "The office is on the third floor.",
+    "sentence2_bn": "অফিসটি তৃতীয় তলায়।"
   },
   {
     "id": 80,
@@ -1195,9 +1511,13 @@
     "sentence1": "Sie verdient gutes Geld.",
     "sentence2": "Wie viel verdienst du im Monat?",
     "english": "to earn",
-    "bangla": "ফেয়ারডিনেন",
+    "bangla": "আয় করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "She earns good money.",
+    "sentence1_bn": "সে ভালো টাকা আয় করে।",
+    "sentence2_en": "How much do you earn per month?",
+    "sentence2_bn": "তুমি মাসে কত আয় করো?"
   },
   {
     "id": 81,
@@ -1210,9 +1530,13 @@
     "sentence1": "Meine Familie ist mir sehr wichtig.",
     "sentence2": "Ich besuche am Wochenende meine Familie.",
     "english": "family",
-    "bangla": "ডি ফামিলিয়ে",
+    "bangla": "পরিবার",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My family is very important to me.",
+    "sentence1_bn": "আমার পরিবার আমার কাছে অনেক গুরুত্বপূর্ণ।",
+    "sentence2_en": "I visit my family on the weekend.",
+    "sentence2_bn": "সপ্তাহান্তে আমি আমার পরিবারের সাথে দেখা করি।"
   },
   {
     "id": 82,
@@ -1225,9 +1549,13 @@
     "sentence1": "Er ist mein bester Freund.",
     "sentence2": "Ich treffe heute meinen Freund.",
     "english": "friend (m)",
-    "bangla": "ডেয়া ফ্রয়ন্ট",
+    "bangla": "বন্ধু (পুরুষ)",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "He is my best friend.",
+    "sentence1_bn": "সে আমার সবচেয়ে ভালো বন্ধু।",
+    "sentence2_en": "I am meeting my friend today.",
+    "sentence2_bn": "আজ আমি আমার বন্ধুর সাথে দেখা করছি।"
   },
   {
     "id": 83,
@@ -1240,9 +1568,13 @@
     "sentence1": "Sie ist meine beste Freundin.",
     "sentence2": "Ich rufe meine Freundin an.",
     "english": "friend/girlfriend (f)",
-    "bangla": "ডি ফ্রয়ন্ডিন",
+    "bangla": "বান্ধবী/গার্লফ্রেন্ড",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "She is my best friend.",
+    "sentence1_bn": "সে আমার সবচেয়ে ভালো বান্ধবী।",
+    "sentence2_en": "I am calling my girlfriend.",
+    "sentence2_bn": "আমি আমার বান্ধবীকে ফোন করছি।"
   },
   {
     "id": 84,
@@ -1255,9 +1587,13 @@
     "sentence1": "Meine Mutter kocht jeden Sonntag.",
     "sentence2": "Ich liebe meine Mutter sehr.",
     "english": "mother",
-    "bangla": "ডি মুটার",
+    "bangla": "মা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My mother cooks every Sunday.",
+    "sentence1_bn": "আমার মা প্রতি রবিবার রান্না করেন।",
+    "sentence2_en": "I love my mother very much.",
+    "sentence2_bn": "আমি আমার মাকে অনেক ভালোবাসি।"
   },
   {
     "id": 85,
@@ -1270,9 +1606,13 @@
     "sentence1": "Mein Vater arbeitet als Ingenieur.",
     "sentence2": "Ich rufe meinen Vater jeden Sonntag an.",
     "english": "father",
-    "bangla": "ডেয়া ফাটার",
+    "bangla": "বাবা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My father works as an engineer.",
+    "sentence1_bn": "আমার বাবা একজন ইঞ্জিনিয়ার হিসেবে কাজ করেন।",
+    "sentence2_en": "I call my father every Sunday.",
+    "sentence2_bn": "আমি প্রতি রবিবার আমার বাবাকে ফোন করি।"
   },
   {
     "id": 86,
@@ -1285,9 +1625,13 @@
     "sentence1": "Das Kind spielt im Garten.",
     "sentence2": "Ich sehe das Kind jeden Tag.",
     "english": "child",
-    "bangla": "দাস কিন্ট",
+    "bangla": "শিশু",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The child is playing in the garden.",
+    "sentence1_bn": "শিশুটি বাগানে খেলছে।",
+    "sentence2_en": "I see the child every day.",
+    "sentence2_bn": "আমি প্রতিদিন শিশুটিকে দেখি।"
   },
   {
     "id": 87,
@@ -1300,9 +1644,13 @@
     "sentence1": "Meine Schwester wohnt in Hamburg.",
     "sentence2": "Ich besuche meine Schwester im Sommer.",
     "english": "sister",
-    "bangla": "ডি শভেস্টার",
+    "bangla": "বোন",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My sister lives in Hamburg.",
+    "sentence1_bn": "আমার বোন হামবুর্গে থাকে।",
+    "sentence2_en": "I visit my sister in summer.",
+    "sentence2_bn": "আমি গ্রীষ্মে আমার বোনের সাথে দেখা করি।"
   },
   {
     "id": 88,
@@ -1315,9 +1663,13 @@
     "sentence1": "Mein Bruder ist älter als ich.",
     "sentence2": "Ich helfe meinem Bruder oft.",
     "english": "brother",
-    "bangla": "ডেয়া ব্রুডার",
+    "bangla": "ভাই",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My brother is older than me.",
+    "sentence1_bn": "আমার ভাই আমার চেয়ে বড়।",
+    "sentence2_en": "I often help my brother.",
+    "sentence2_bn": "আমি প্রায়ই আমার ভাইকে সাহায্য করি।"
   },
   {
     "id": 89,
@@ -1330,9 +1682,13 @@
     "sentence1": "Diese Frau arbeitet als Ärztin.",
     "sentence2": "Ich kenne diese Frau nicht.",
     "english": "woman/wife",
-    "bangla": "ডি ফ্রাউ",
+    "bangla": "মহিলা/স্ত্রী",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "This woman works as a doctor.",
+    "sentence1_bn": "এই মহিলা একজন ডাক্তার হিসেবে কাজ করেন।",
+    "sentence2_en": "I don't know this woman.",
+    "sentence2_bn": "আমি এই মহিলাকে চিনি না।"
   },
   {
     "id": 90,
@@ -1345,9 +1701,13 @@
     "sentence1": "Der Mann trägt einen Anzug.",
     "sentence2": "Ich sehe den Mann jeden Morgen.",
     "english": "man/husband",
-    "bangla": "ডেয়া মান",
+    "bangla": "পুরুষ/স্বামী",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The man is wearing a suit.",
+    "sentence1_bn": "পুরুষটি একটি স্যুট পরে আছেন।",
+    "sentence2_en": "I see the man every morning.",
+    "sentence2_bn": "আমি প্রতিদিন সকালে সেই পুরুষটিকে দেখি।"
   },
   {
     "id": 91,
@@ -1360,9 +1720,13 @@
     "sentence1": "Ich liebe meine Familie sehr.",
     "sentence2": "Er liebt sie schon lange.",
     "english": "to love",
-    "bangla": "লিবেন",
+    "bangla": "ভালোবাসা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I love my family very much.",
+    "sentence1_bn": "আমি আমার পরিবারকে অনেক ভালোবাসি।",
+    "sentence2_en": "He has loved her for a long time.",
+    "sentence2_bn": "সে তাকে দীর্ঘদিন ধরে ভালোবাসে।"
   },
   {
     "id": 92,
@@ -1375,9 +1739,13 @@
     "sentence1": "Sie möchten im Sommer heiraten.",
     "sentence2": "Wir heiraten nächstes Jahr.",
     "english": "to marry",
-    "bangla": "হাইরাটেন",
+    "bangla": "বিয়ে করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "They want to marry in summer.",
+    "sentence1_bn": "তারা গ্রীষ্মে বিয়ে করতে চায়।",
+    "sentence2_en": "We are getting married next year.",
+    "sentence2_bn": "আমরা আগামী বছর বিয়ে করছি।"
   },
   {
     "id": 93,
@@ -1390,9 +1758,13 @@
     "sentence1": "Mein Partner unterstützt mich immer.",
     "sentence2": "Ich stelle dir meinen Partner vor.",
     "english": "partner (m)",
-    "bangla": "ডেয়া পার্টনার",
+    "bangla": "সঙ্গী (পুরুষ)",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My partner always supports me.",
+    "sentence1_bn": "আমার সঙ্গী সবসময় আমাকে সহায়তা করে।",
+    "sentence2_en": "I'll introduce you to my partner.",
+    "sentence2_bn": "আমি তোমাকে আমার সঙ্গীর সাথে পরিচয় করিয়ে দেব।"
   },
   {
     "id": 94,
@@ -1405,9 +1777,13 @@
     "sentence1": "Meine Partnerin arbeitet im Krankenhaus.",
     "sentence2": "Ich liebe meine Partnerin sehr.",
     "english": "partner (f)",
-    "bangla": "ডি পার্টনারিন",
+    "bangla": "সঙ্গিনী",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "My partner works at the hospital.",
+    "sentence1_bn": "আমার সঙ্গিনী হাসপাতালে কাজ করেন।",
+    "sentence2_en": "I love my partner very much.",
+    "sentence2_bn": "আমি আমার সঙ্গিনীকে অনেক ভালোবাসি।"
   },
   {
     "id": 95,
@@ -1420,9 +1796,13 @@
     "sentence1": "Unser Nachbar ist sehr nett.",
     "sentence2": "Ich grüße meinen Nachbarn jeden Morgen.",
     "english": "neighbor (m)",
-    "bangla": "ডেয়া নাখবার",
+    "bangla": "প্রতিবেশী",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Our neighbor is very nice.",
+    "sentence1_bn": "আমাদের প্রতিবেশী খুব ভালো মানুষ।",
+    "sentence2_en": "I greet my neighbor every morning.",
+    "sentence2_bn": "আমি প্রতিদিন সকালে আমার প্রতিবেশীকে সালাম দিই।"
   },
   {
     "id": 96,
@@ -1435,9 +1815,13 @@
     "sentence1": "Wir treffen uns morgen im Café.",
     "sentence2": "Ich treffe meine Freunde am Abend.",
     "english": "to meet",
-    "bangla": "ট্রেফেন",
+    "bangla": "সাক্ষাৎ করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We are meeting at the café tomorrow.",
+    "sentence1_bn": "আমরা আগামীকাল ক্যাফেতে দেখা করব।",
+    "sentence2_en": "I am meeting my friends in the evening.",
+    "sentence2_bn": "সন্ধ্যায় আমি আমার বন্ধুদের সাথে দেখা করব।"
   },
   {
     "id": 97,
@@ -1450,9 +1834,13 @@
     "sentence1": "Ich möchte dich besser kennenlernen.",
     "sentence2": "Wir haben uns letztes Jahr kennengelernt.",
     "english": "to get to know",
-    "bangla": "কেনেনলেয়ারনেন",
+    "bangla": "পরিচিত হওয়া",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I would like to get to know you better.",
+    "sentence1_bn": "আমি তোমাকে আরও ভালোভাবে জানতে চাই।",
+    "sentence2_en": "We got to know each other last year.",
+    "sentence2_bn": "আমরা গত বছর একে অপরের সাথে পরিচিত হয়েছিলাম।"
   },
   {
     "id": 98,
@@ -1465,9 +1853,13 @@
     "sentence1": "Ich vertraue meinen Freunden sehr.",
     "sentence2": "Sie vertraut ihm nicht mehr.",
     "english": "to trust",
-    "bangla": "ফেয়ারট্রাউয়েন",
+    "bangla": "বিশ্বাস করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I trust my friends a lot.",
+    "sentence1_bn": "আমি আমার বন্ধুদের অনেক বিশ্বাস করি।",
+    "sentence2_en": "She doesn't trust him anymore.",
+    "sentence2_bn": "সে তাকে আর বিশ্বাস করে না।"
   },
   {
     "id": 99,
@@ -1480,9 +1872,13 @@
     "sentence1": "Die Kinder streiten sich oft.",
     "sentence2": "Wir streiten selten miteinander.",
     "english": "to argue",
-    "bangla": "শ্ট্রাইটেন",
+    "bangla": "ঝগড়া করা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The children often argue.",
+    "sentence1_bn": "শিশুরা প্রায়ই ঝগড়া করে।",
+    "sentence2_en": "We rarely argue with each other.",
+    "sentence2_bn": "আমরা একে অপরের সাথে খুব কমই ঝগড়া করি।"
   },
   {
     "id": 100,
@@ -1495,9 +1891,13 @@
     "sentence1": "Sie umarmt ihre Mutter zur Begrüßung.",
     "sentence2": "Ich umarme meine Freunde gern.",
     "english": "to hug",
-    "bangla": "উমারমেন",
+    "bangla": "জড়িয়ে ধরা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "She hugs her mother in greeting.",
+    "sentence1_bn": "সে তার মাকে অভিবাদন জানাতে জড়িয়ে ধরে।",
+    "sentence2_en": "I like to hug my friends.",
+    "sentence2_bn": "আমি আমার বন্ধুদের জড়িয়ে ধরতে ভালোবাসি।"
   },
   {
     "id": 101,
@@ -1510,9 +1910,13 @@
     "sentence1": "Ich habe heute leider keine Zeit.",
     "sentence2": "Hast du morgen Zeit für mich?",
     "english": "time",
-    "bangla": "ডি সাইট",
+    "bangla": "সময়",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Unfortunately, I have no time today.",
+    "sentence1_bn": "দুর্ভাগ্যক্রমে আজ আমার হাতে সময় নেই।",
+    "sentence2_en": "Do you have time for me tomorrow?",
+    "sentence2_bn": "আগামীকাল তোমার কি আমার জন্য সময় আছে?"
   },
   {
     "id": 102,
@@ -1525,9 +1929,13 @@
     "sentence1": "Ich wünsche dir einen schönen Tag.",
     "sentence2": "Der Tag war sehr anstrengend.",
     "english": "day",
-    "bangla": "ডেয়া টাগ",
+    "bangla": "দিন",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I wish you a nice day.",
+    "sentence1_bn": "আমি তোমার জন্য একটি সুন্দর দিন কামনা করি।",
+    "sentence2_en": "The day was very exhausting.",
+    "sentence2_bn": "দিনটি খুব ক্লান্তিকর ছিল।"
   },
   {
     "id": 103,
@@ -1540,9 +1948,13 @@
     "sentence1": "Nächste Woche habe ich Urlaub.",
     "sentence2": "Diese Woche ist sehr stressig.",
     "english": "week",
-    "bangla": "ডি ভোখে",
+    "bangla": "সপ্তাহ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Next week I have vacation.",
+    "sentence1_bn": "আগামী সপ্তাহে আমার ছুটি আছে।",
+    "sentence2_en": "This week is very stressful.",
+    "sentence2_bn": "এই সপ্তাহটি খুব চাপের।"
   },
   {
     "id": 104,
@@ -1555,9 +1967,13 @@
     "sentence1": "Der Monat Dezember ist sehr kalt.",
     "sentence2": "Ich sehe ihn einmal im Monat.",
     "english": "month",
-    "bangla": "ডেয়া মোনাট",
+    "bangla": "মাস",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The month of December is very cold.",
+    "sentence1_bn": "ডিসেম্বর মাস খুব ঠান্ডা।",
+    "sentence2_en": "I see him once a month.",
+    "sentence2_bn": "আমি তাকে মাসে একবার দেখি।"
   },
   {
     "id": 105,
@@ -1570,9 +1986,13 @@
     "sentence1": "Dieses Jahr war sehr erfolgreich.",
     "sentence2": "Ich lerne seit einem Jahr Deutsch.",
     "english": "year",
-    "bangla": "দাস ইয়ার",
+    "bangla": "বছর",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "This year was very successful.",
+    "sentence1_bn": "এই বছরটি খুব সফল হয়েছে।",
+    "sentence2_en": "I have been learning German for a year.",
+    "sentence2_bn": "আমি এক বছর ধরে জার্মান শিখছি।"
   },
   {
     "id": 106,
@@ -1585,9 +2005,13 @@
     "sentence1": "Was machst du heute Abend?",
     "sentence2": "Heute ist ein schöner Tag.",
     "english": "today",
-    "bangla": "হয়টে",
+    "bangla": "আজ",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "What are you doing tonight?",
+    "sentence1_bn": "আজ রাতে তুমি কী করছ?",
+    "sentence2_en": "Today is a beautiful day.",
+    "sentence2_bn": "আজ একটি সুন্দর দিন।"
   },
   {
     "id": 107,
@@ -1600,9 +2024,13 @@
     "sentence1": "Wir sehen uns morgen früh.",
     "sentence2": "Morgen habe ich viel zu tun.",
     "english": "tomorrow",
-    "bangla": "মরগেন",
+    "bangla": "আগামীকাল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We'll see each other tomorrow morning.",
+    "sentence1_bn": "আমরা আগামীকাল সকালে দেখা করব।",
+    "sentence2_en": "Tomorrow I have a lot to do.",
+    "sentence2_bn": "আগামীকাল আমার অনেক কাজ আছে।"
   },
   {
     "id": 108,
@@ -1615,9 +2043,13 @@
     "sentence1": "Gestern habe ich viel gearbeitet.",
     "sentence2": "Gestern war ein guter Tag.",
     "english": "yesterday",
-    "bangla": "গেস্টার্ন",
+    "bangla": "গতকাল",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Yesterday I worked a lot.",
+    "sentence1_bn": "গতকাল আমি অনেক কাজ করেছি।",
+    "sentence2_en": "Yesterday was a good day.",
+    "sentence2_bn": "গতকাল একটি ভালো দিন ছিল।"
   },
   {
     "id": 109,
@@ -1630,9 +2062,13 @@
     "sentence1": "Wie spät ist es auf deiner Uhr?",
     "sentence2": "Ich habe eine neue Uhr gekauft.",
     "english": "clock/watch",
-    "bangla": "ডি উয়ার",
+    "bangla": "ঘড়ি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "What time is it on your watch?",
+    "sentence1_bn": "তোমার ঘড়িতে এখন কত সময়?",
+    "sentence2_en": "I bought a new watch.",
+    "sentence2_bn": "আমি একটি নতুন ঘড়ি কিনেছি।"
   },
   {
     "id": 110,
@@ -1645,9 +2081,13 @@
     "sentence1": "Warte bitte noch eine Minute.",
     "sentence2": "Ich bin in fünf Minuten da.",
     "english": "minute",
-    "bangla": "ডি মিনুটে",
+    "bangla": "মিনিট",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please wait one more minute.",
+    "sentence1_bn": "দয়া করে আরও এক মিনিট অপেক্ষা করো।",
+    "sentence2_en": "I'll be there in five minutes.",
+    "sentence2_bn": "আমি পাঁচ মিনিটের মধ্যে চলে আসব।"
   },
   {
     "id": 111,
@@ -1660,9 +2100,13 @@
     "sentence1": "Die Reise dauert zwei Stunden.",
     "sentence2": "Ich arbeite acht Stunden am Tag.",
     "english": "hour",
-    "bangla": "ডি স্টুন্ডে",
+    "bangla": "ঘণ্টা",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "The journey takes two hours.",
+    "sentence1_bn": "যাত্রাটি দুই ঘণ্টা সময় নেয়।",
+    "sentence2_en": "I work eight hours a day.",
+    "sentence2_bn": "আমি দিনে আট ঘণ্টা কাজ করি।"
   },
   {
     "id": 112,
@@ -1675,9 +2119,13 @@
     "sentence1": "Wir müssen morgen früh aufstehen.",
     "sentence2": "Es ist noch sehr früh.",
     "english": "early",
-    "bangla": "ফ্রু",
+    "bangla": "সকাল সকাল/তাড়াতাড়ি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "We have to get up early tomorrow.",
+    "sentence1_bn": "আগামীকাল আমাদের তাড়াতাড়ি উঠতে হবে।",
+    "sentence2_en": "It is still very early.",
+    "sentence2_bn": "এখনও খুব সকাল।"
   },
   {
     "id": 113,
@@ -1690,9 +2138,13 @@
     "sentence1": "Es ist schon sehr spät.",
     "sentence2": "Wir kommen heute etwas später.",
     "english": "late",
-    "bangla": "স্পেট",
+    "bangla": "দেরি",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "It is already very late.",
+    "sentence1_bn": "এখন অনেক দেরি হয়ে গেছে।",
+    "sentence2_en": "We are coming a bit later today.",
+    "sentence2_bn": "আজ আমরা কিছুটা দেরিতে আসছি।"
   },
   {
     "id": 114,
@@ -1705,9 +2157,13 @@
     "sentence1": "Ich gehe oft ins Kino.",
     "sentence2": "Wir sehen uns nicht oft.",
     "english": "often",
-    "bangla": "অফ্ট",
+    "bangla": "প্রায়ই",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "I often go to the cinema.",
+    "sentence1_bn": "আমি প্রায়ই সিনেমা দেখতে যাই।",
+    "sentence2_en": "We don't see each other often.",
+    "sentence2_bn": "আমাদের প্রায়ই দেখা হয় না।"
   },
   {
     "id": 115,
@@ -1720,9 +2176,13 @@
     "sentence1": "Manchmal koche ich indisches Essen.",
     "sentence2": "Manchmal bin ich sehr müde.",
     "english": "sometimes",
-    "bangla": "মানখমাল",
+    "bangla": "কখনো কখনো",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Sometimes I cook Indian food.",
+    "sentence1_bn": "কখনো কখনো আমি ভারতীয় খাবার রান্না করি।",
+    "sentence2_en": "Sometimes I am very tired.",
+    "sentence2_bn": "কখনো কখনো আমি খুব ক্লান্ত থাকি।"
   },
   {
     "id": 116,
@@ -1735,9 +2195,13 @@
     "sentence1": "Er kommt immer pünktlich.",
     "sentence2": "Ich bin immer für dich da.",
     "english": "always",
-    "bangla": "ইমার",
+    "bangla": "সবসময়",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "He always comes on time.",
+    "sentence1_bn": "সে সবসময় সময়মতো আসে।",
+    "sentence2_en": "I am always there for you.",
+    "sentence2_bn": "আমি সবসময় তোমার জন্য আছি।"
   },
   {
     "id": 117,
@@ -1750,9 +2214,13 @@
     "sentence1": "Sie ist nie zu spät.",
     "sentence2": "Ich trinke nie Kaffee am Abend.",
     "english": "never",
-    "bangla": "নি",
+    "bangla": "কখনো না",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "She is never late.",
+    "sentence1_bn": "সে কখনো দেরি করে না।",
+    "sentence2_en": "I never drink coffee in the evening.",
+    "sentence2_bn": "আমি সন্ধ্যায় কখনো কফি খাই না।"
   },
   {
     "id": 118,
@@ -1765,9 +2233,13 @@
     "sentence1": "Warte nur eine Sekunde.",
     "sentence2": "Es dauert nur ein paar Sekunden.",
     "english": "second",
-    "bangla": "ডি জেকুন্ডে",
+    "bangla": "সেকেন্ড",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Just wait a second.",
+    "sentence1_bn": "শুধু একটা সেকেন্ড অপেক্ষা করো।",
+    "sentence2_en": "It only takes a few seconds.",
+    "sentence2_bn": "এটি মাত্র কয়েক সেকেন্ড সময় নেয়।"
   },
   {
     "id": 119,
@@ -1780,9 +2252,13 @@
     "sentence1": "In diesem Moment bin ich sehr glücklich.",
     "sentence2": "Einen Moment bitte, ich komme gleich.",
     "english": "moment",
-    "bangla": "ডেয়া মোমেন্ট",
+    "bangla": "মুহূর্ত",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "In this moment I am very happy.",
+    "sentence1_bn": "এই মুহূর্তে আমি খুব খুশি।",
+    "sentence2_en": "One moment please, I'll be right there.",
+    "sentence2_bn": "এক মুহূর্ত দয়া করে, আমি এখনই আসছি।"
   },
   {
     "id": 120,
@@ -1795,8 +2271,12 @@
     "sentence1": "Bitte sei pünktlich zum Termin.",
     "sentence2": "Der Zug war heute pünktlich.",
     "english": "punctual/on time",
-    "bangla": "পুংক্টলিশ",
+    "bangla": "সময়ানুবর্তী/সময়মতো",
     "status": "To Learn",
-    "my_sentence": ""
+    "my_sentence": "",
+    "sentence1_en": "Please be on time for the appointment.",
+    "sentence1_bn": "দয়া করে অ্যাপয়েন্টমেন্টে সময়মতো আসো।",
+    "sentence2_en": "The train was on time today.",
+    "sentence2_bn": "ট্রেনটি আজ সময়মতো ছিল।"
   }
 ]
